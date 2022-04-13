@@ -1,0 +1,8 @@
+//font link
+https://fonts.google.com/share?selection.family=Josefin%20Sans:wght@100;200;300;400;500;600;700%7CLora:ital,wght@1,400;1,500;1,600;1,700%7CVarela%7CVarela%20Round
+
+//Font awesone
+https://fontawesome.com/icons/pinterest-square?s=brands
+
+//images
+https://picsum.photos/images
