@@ -7,3 +7,7 @@ https://fontawesome.com/icons/
 
 //images
 https://picsum.photos/images
+
+//w3school
+https://www.w3schools.com/cssref/playdemo.asp?filename=playcss_align-items
+
